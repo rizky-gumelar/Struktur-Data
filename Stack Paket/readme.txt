@@ -1,1 +1,1 @@
-Memodifikasi program stack (tumpukan) menggunakan bahasa pemrograman C++
+Memodifikasi program stack (tumpukan) menggunakan bahasa pemrograman C++ dll.
